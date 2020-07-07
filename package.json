@@ -1,0 +1,13 @@
+{
+  "name": "mongodb-api",
+  "version": "0.0.1",
+  "description": "Express & MongoDB Serverless RESTful API",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "f-jauregui",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
